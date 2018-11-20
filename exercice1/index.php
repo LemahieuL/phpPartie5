@@ -6,7 +6,8 @@
     </head>
     <body>
         <?php
-            $month = array('janvier', 'février', 'mars', 'avril', 'mai', 'juin', 'juillet', 'aout', 'septembre', 'octobre', 'novembre', 'décembre');
+        $month = array('janvier', 'février', 'mars', 'avril', 'mai', 'juin', 'juillet', 'aout', 'septembre', 'octobre', 'novembre', 'décembre');
+        /*Je crée un tableau avec les mois en valeur.*/
         ?>
     </body>
 </html>
